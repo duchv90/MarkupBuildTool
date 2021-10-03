@@ -1,6 +1,5 @@
 # HTML/CSS Build tool
 ## Getting Started
-* npm
   ```sh
   npm install npm@latest -g
   ```
