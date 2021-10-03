@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20 20">
+    <defs>
+      <path id="ph-a-icn" d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10z"></path>
+      <path id="ph-c-icn" d="M0 0h7.846v11.992L0 12V0zm.872.92v8.275l6.102-.005V.92H.872zm3.051 9.195a.448.448 0 0 0-.436.46c0 .253.195.459.436.459.24 0 .436-.206.436-.46a.448.448 0 0 0-.436-.46z"></path>
+    </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g>
+      <mask id="ph-b-icn" fill="#fff"><use xlink:href="#ph-a-icn"></use></mask>
+      <path fill="var(--color-blue-5)" d="M-2.5 22.5h25v-25h-25z" mask="url(#ph-b-icn)"></path>
+    </g>
+    <g transform="translate(6 4)">
+      <mask id="ph-d-icn" fill="#fff"><use xlink:href="#ph-c-icn"></use></mask>
+      <path fill="#FFF" d="M-2.5 14.5h12.846v-17H-2.5z" mask="url(#ph-d-icn)"></path>
+    </g>
+  </g>
+</svg>

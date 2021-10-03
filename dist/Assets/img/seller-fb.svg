@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20 20">
+  <defs>
+    <path id="fb-a-icn" d="M10 20C4.477 20 0 15.523 0 10S4.477 0 10 0s10 4.477 10 10-4.477 10-10 10zm2.712-10.47l.318-2.01h-2.01V6.376c0-.565.052-.866.86-.866h1.15V3.5h-1.713c-2.076 0-2.809 1.046-2.81 2.809v1.21H7v2.01h1.507v6.533h2.513V9.53h1.692z"></path>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="fb-b-icn" fill="#fff"><use xlink:href="#fb-a-icn"></use></mask>
+    <path fill="var(--color-grey-3)" d="M-2.5 22.5h25v-25h-25z" mask="url(#fb-b-icn)"></path>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+include ../head/head
+include ../header/header
+include ../footer/footer
+include ../mixins/mixins
+
+doctype html
+html(lang='vi')
+  block head
+    +head()
+
+  block body
+    body
+      block header
+        +header()
+
+      block main
+        main.main
+          block main-content
+
+      block footer
+        +footer()

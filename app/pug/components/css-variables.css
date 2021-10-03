@@ -1,0 +1,9 @@
+:root {
+  --color-primary: #ec6630;
+}
+
+header,
+main,
+footer {
+  opacity: 0;
+}

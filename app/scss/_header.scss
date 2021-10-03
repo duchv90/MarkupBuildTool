@@ -1,0 +1,15 @@
+header,
+main,
+footer {
+  opacity: 1;
+}
+
+.header-logo {
+  padding: 30px 0;
+
+  &__img {
+    display: block;
+    height: 80px;
+    margin: 0 auto;
+  }
+}

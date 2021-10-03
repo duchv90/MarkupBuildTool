@@ -1,0 +1,28 @@
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 50px;
+  font-weight: bold;
+}
+
+.section {
+  padding: 80px 0;
+
+  &--first {
+    background-color: $cyan;
+  }
+
+  &--secondary {
+    background-color: $teal;
+  }
+
+  &--tertiary {
+    background-color: $green;
+  }
+
+  &--quaternary {
+    background-color: $yellow;
+  }
+}

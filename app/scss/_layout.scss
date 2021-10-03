@@ -1,0 +1,19 @@
+.preloading {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+
+  &__bar {
+    display: block;
+    width: 0;
+    height: 2px;
+    background-color: $primary;
+  }
+}
+
+.main,
+.footer {
+  opacity: 1;
+}
